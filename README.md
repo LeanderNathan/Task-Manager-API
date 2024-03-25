@@ -2,6 +2,15 @@ A basic task manager program to demonstrate:
 
 - Use of APIs
 - Create structures following REST API
+- CRUD concepts
+- ENV variables
+- Schema and Models
+- Basic Validation
+- Try/Catch Blocks
+- GET, POST, PATCH, DELETE methods
+- Use of custom middleware to refactor code
+- Async Wrappers
+- Custom Error Handlers
 
 Technologies Used:
 
